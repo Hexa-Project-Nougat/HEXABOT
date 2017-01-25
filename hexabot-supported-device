@@ -3,3 +3,12 @@
 
 # Supported Device
 shamu userdebug cm-14.1
+
+# LG Nexus 5X
+bullhead userdebug cm-14.1
+
+# HTC Pixel XL
+marlin userdebug cm-14.1
+
+# HTC Pixel
+sailfish userdebug cm-14.1
